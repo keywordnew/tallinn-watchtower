@@ -22,18 +22,20 @@
     "url": "https://www.elektrilevi.ee/en/avaleht",
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "elektrilevi-o-ue",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 838,
-    "timeWeek": 863,
-    "timeMonth": 805,
-    "timeYear": 805,
-    "dailyMinutesDown": {}
+    "time": 822,
+    "timeDay": 931,
+    "timeWeek": 886,
+    "timeMonth": 822,
+    "timeYear": 822,
+    "dailyMinutesDown": {
+      "2023-06-18": 0
+    }
   },
   {
     "name": "Elisa Eesti AS",
