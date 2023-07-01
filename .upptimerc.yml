@@ -41,8 +41,6 @@ status-website:
   introTitle: 'Tallinn 🇪🇪 watchtower'
   introMessage: 'check if critical infrastructure may be down, or use GitHub ↗️ to "Watch" and get notified'
   navbar:
-    - title: Status
-      href: /tallinn-watchtower
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Neighbourhoods
