@@ -97,19 +97,19 @@
     "url": "https://www.tlt.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "tallinna-linnatranspordi-as",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1403,
-    "timeDay": 1451,
-    "timeWeek": 1327,
-    "timeMonth": 1447,
-    "timeYear": 1403,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1405,
+    "timeDay": 1472,
+    "timeWeek": 1348,
+    "timeMonth": 1449,
+    "timeYear": 1405,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 9
     }
   },
   {
