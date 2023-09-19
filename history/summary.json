@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 1001,
-    "timeWeek": 1198,
-    "timeMonth": 1087,
-    "timeYear": 1062,
+    "time": 1056,
+    "timeDay": 768,
+    "timeWeek": 1073,
+    "timeMonth": 1076,
+    "timeYear": 1056,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 904,
-    "timeDay": 981,
-    "timeWeek": 1052,
-    "timeMonth": 973,
-    "timeYear": 904,
+    "time": 900,
+    "timeDay": 673,
+    "timeWeek": 978,
+    "timeMonth": 968,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2023-09-02": 19,
       "2023-06-18": 105
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1188,
-    "timeDay": 1147,
-    "timeWeek": 1248,
+    "time": 1185,
+    "timeDay": 1035,
+    "timeWeek": 1208,
     "timeMonth": 1128,
-    "timeYear": 1188,
+    "timeYear": 1185,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
-    "time": 1619,
-    "timeDay": 1345,
-    "timeWeek": 2506,
-    "timeMonth": 1728,
-    "timeYear": 1619,
+    "time": 1610,
+    "timeDay": 1101,
+    "timeWeek": 2437,
+    "timeMonth": 1712,
+    "timeYear": 1610,
     "dailyMinutesDown": {
       "2023-09-14": 55
     }
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 863,
-    "timeWeek": 990,
-    "timeMonth": 917,
-    "timeYear": 919,
+    "time": 917,
+    "timeDay": 823,
+    "timeWeek": 960,
+    "timeMonth": 908,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   },
   {
@@ -100,19 +100,17 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "tallinna-linnatranspordi-as",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1405,
-    "timeDay": 1482,
-    "timeWeek": 1439,
-    "timeMonth": 1354,
-    "timeYear": 1405,
-    "dailyMinutesDown": {
-      "2023-09-18": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1402,
+    "timeDay": 1364,
+    "timeWeek": 1411,
+    "timeMonth": 1348,
+    "timeYear": 1402,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monese",
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1787,
-    "timeDay": 1880,
-    "timeWeek": 2069,
-    "timeMonth": 1829,
-    "timeYear": 1787,
+    "time": 1781,
+    "timeDay": 1482,
+    "timeWeek": 1936,
+    "timeMonth": 1817,
+    "timeYear": 1781,
     "dailyMinutesDown": {}
   }
 ]
