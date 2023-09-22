@@ -81,19 +81,19 @@
     "url": "https://www.politsei.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "politsei-ja-piirivalveamet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 651,
-    "timeWeek": 841,
-    "timeMonth": 911,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 918,
+    "timeDay": 905,
+    "timeWeek": 881,
+    "timeMonth": 919,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-09-22": 0
+      "2023-09-22": 9
     }
   },
   {
