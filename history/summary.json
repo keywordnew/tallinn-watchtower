@@ -62,11 +62,11 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "pohja-eesti-regionaalhaigla",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1602,
     "timeDay": 1101,
     "timeWeek": 1375,
@@ -81,9 +81,9 @@
     "url": "https://www.politsei.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "politsei-ja-piirivalveamet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +92,9 @@
     "timeWeek": 841,
     "timeMonth": 911,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   },
   {
     "name": "Tallinna Linnatranspordi AS",
