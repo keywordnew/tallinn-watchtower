@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 796,
-    "timeWeek": 1003,
-    "timeMonth": 1083,
-    "timeYear": 1054,
+    "time": 1055,
+    "timeDay": 1093,
+    "timeWeek": 999,
+    "timeMonth": 1090,
+    "timeYear": 1055,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 898,
-    "timeDay": 649,
-    "timeWeek": 846,
-    "timeMonth": 962,
-    "timeYear": 898,
+    "time": 908,
+    "timeDay": 1480,
+    "timeWeek": 930,
+    "timeMonth": 984,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2023-09-02": 19,
       "2023-06-18": 105
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1181,
-    "timeDay": 901,
-    "timeWeek": 1144,
-    "timeMonth": 1129,
-    "timeYear": 1181,
+    "time": 1184,
+    "timeDay": 1335,
+    "timeWeek": 1100,
+    "timeMonth": 1141,
+    "timeYear": 1184,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
-    "time": 1602,
-    "timeDay": 1101,
-    "timeWeek": 1375,
-    "timeMonth": 1726,
-    "timeYear": 1602,
+    "time": 1603,
+    "timeDay": 1642,
+    "timeWeek": 1393,
+    "timeMonth": 1742,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2023-09-14": 55
     }
@@ -82,19 +82,17 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "politsei-ja-piirivalveamet",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 918,
-    "timeDay": 905,
-    "timeWeek": 881,
-    "timeMonth": 919,
-    "timeYear": 918,
-    "dailyMinutesDown": {
-      "2023-09-22": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 920,
+    "timeDay": 1100,
+    "timeWeek": 901,
+    "timeMonth": 931,
+    "timeYear": 920,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tallinna Linnatranspordi AS",
@@ -107,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1403,
-    "timeDay": 1253,
-    "timeWeek": 1398,
-    "timeMonth": 1342,
-    "timeYear": 1403,
+    "time": 1407,
+    "timeDay": 1621,
+    "timeWeek": 1431,
+    "timeMonth": 1355,
+    "timeYear": 1407,
     "dailyMinutesDown": {}
   },
   {
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1789,
-    "timeDay": 1516,
-    "timeWeek": 1784,
-    "timeMonth": 1844,
-    "timeYear": 1789,
+    "time": 1795,
+    "timeDay": 2109,
+    "timeWeek": 1820,
+    "timeMonth": 1863,
+    "timeYear": 1795,
     "dailyMinutesDown": {}
   }
 ]
