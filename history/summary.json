@@ -43,9 +43,9 @@
     "url": "https://www.elisa.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "elisa-eesti-as",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 1151,
     "timeMonth": 1157,
     "timeYear": 1181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-30": 0
+    }
   },
   {
     "name": "Põhja-Eesti Regionaalhaigla",
