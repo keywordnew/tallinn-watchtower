@@ -43,19 +43,19 @@
     "url": "https://www.elisa.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "elisa-eesti-as",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 1181,
-    "timeDay": 887,
-    "timeWeek": 1151,
-    "timeMonth": 1157,
+    "timeDay": 1044,
+    "timeWeek": 1157,
+    "timeMonth": 1158,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2023-09-30": 0
+      "2023-09-30": 28
     }
   },
   {
