@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1028,
-    "timeDay": 1001,
-    "timeWeek": 924,
+    "time": 1029,
+    "timeDay": 1143,
+    "timeWeek": 929,
     "timeMonth": 991,
-    "timeYear": 1028,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2023-10-05": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 904,
-    "timeDay": 1233,
-    "timeWeek": 944,
-    "timeMonth": 928,
-    "timeYear": 904,
+    "time": 909,
+    "timeDay": 1289,
+    "timeWeek": 991,
+    "timeMonth": 938,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2023-09-02": 19,
       "2023-06-18": 105
@@ -46,16 +46,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "elisa-eesti-as",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 1167,
-    "timeDay": 1198,
-    "timeWeek": 1233,
-    "timeMonth": 1148,
-    "timeYear": 1167,
+    "uptimeYear": "99.99%",
+    "time": 1176,
+    "timeDay": 1867,
+    "timeWeek": 1343,
+    "timeMonth": 1164,
+    "timeYear": 1176,
     "dailyMinutesDown": {
       "2023-09-30": 28
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
-    "time": 1538,
-    "timeDay": 1376,
-    "timeWeek": 1347,
-    "timeMonth": 1706,
-    "timeYear": 1538,
+    "time": 1541,
+    "timeDay": 1787,
+    "timeWeek": 1407,
+    "timeMonth": 1713,
+    "timeYear": 1541,
     "dailyMinutesDown": {
       "2023-09-14": 55
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 904,
-    "timeDay": 1520,
-    "timeWeek": 933,
-    "timeMonth": 897,
-    "timeYear": 904,
+    "time": 907,
+    "timeDay": 1088,
+    "timeWeek": 951,
+    "timeMonth": 892,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2023-10-04": 18
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 1389,
-    "timeDay": 1372,
-    "timeWeek": 1356,
-    "timeMonth": 1372,
-    "timeYear": 1389,
+    "time": 1400,
+    "timeDay": 2234,
+    "timeWeek": 1455,
+    "timeMonth": 1394,
+    "timeYear": 1400,
     "dailyMinutesDown": {
       "2023-10-10": 30
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1778,
-    "timeDay": 1844,
-    "timeWeek": 1739,
-    "timeMonth": 1810,
-    "timeYear": 1778,
+    "time": 1787,
+    "timeDay": 2421,
+    "timeWeek": 1786,
+    "timeMonth": 1809,
+    "timeYear": 1787,
     "dailyMinutesDown": {}
   }
 ]
