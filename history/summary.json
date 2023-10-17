@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1038,
-    "timeDay": 981,
-    "timeWeek": 1062,
-    "timeMonth": 997,
-    "timeYear": 1038,
+    "time": 1034,
+    "timeDay": 739,
+    "timeWeek": 1058,
+    "timeMonth": 987,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2023-10-05": 15
     }
@@ -25,16 +25,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "elektrilevi-o-ue",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 916,
-    "timeDay": 845,
-    "timeWeek": 1041,
+    "uptimeYear": "99.94%",
+    "time": 914,
+    "timeDay": 777,
+    "timeWeek": 1037,
     "timeMonth": 934,
-    "timeYear": 916,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2023-09-02": 19,
       "2023-06-18": 105
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1177,
-    "timeDay": 1111,
-    "timeWeek": 1193,
-    "timeMonth": 1147,
-    "timeYear": 1177,
+    "time": 1173,
+    "timeDay": 888,
+    "timeWeek": 1209,
+    "timeMonth": 1150,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2023-09-30": 28
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1548,
-    "timeDay": 1472,
-    "timeWeek": 1504,
-    "timeMonth": 1406,
-    "timeYear": 1548,
+    "time": 1542,
+    "timeDay": 1073,
+    "timeWeek": 1484,
+    "timeMonth": 1399,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2023-09-14": 55
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 907,
-    "timeDay": 825,
-    "timeWeek": 957,
-    "timeMonth": 886,
-    "timeYear": 907,
+    "time": 903,
+    "timeDay": 528,
+    "timeWeek": 940,
+    "timeMonth": 880,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2023-10-04": 18
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 1406,
-    "timeDay": 1381,
-    "timeWeek": 1504,
-    "timeMonth": 1410,
-    "timeYear": 1406,
+    "time": 1404,
+    "timeDay": 1233,
+    "timeWeek": 1520,
+    "timeMonth": 1406,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2023-10-10": 30
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1801,
-    "timeDay": 1955,
-    "timeWeek": 1923,
-    "timeMonth": 1815,
-    "timeYear": 1801,
+    "time": 1798,
+    "timeDay": 1600,
+    "timeWeek": 1950,
+    "timeMonth": 1819,
+    "timeYear": 1798,
     "dailyMinutesDown": {}
   }
 ]
