@@ -46,9 +46,9 @@
     "url": "https://www.elisa.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "elisa-eesti-as",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 1169,
     "timeYear": 1177,
     "dailyMinutesDown": {
+      "2023-10-22": 0,
       "2023-09-30": 28
     }
   },
@@ -127,18 +128,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "monese",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1805,
     "timeDay": 1530,
     "timeWeek": 1858,
     "timeMonth": 1831,
     "timeYear": 1805,
-    "dailyMinutesDown": {
-      "2023-10-22": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
