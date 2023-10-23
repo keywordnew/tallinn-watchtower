@@ -127,17 +127,19 @@
     "url": "https://www.monese.com",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "monese",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1806,
-    "timeDay": 1532,
-    "timeWeek": 1855,
-    "timeMonth": 1825,
-    "timeYear": 1806,
-    "dailyMinutesDown": {}
+    "time": 1791,
+    "timeDay": 1266,
+    "timeWeek": 1716,
+    "timeMonth": 1784,
+    "timeYear": 1791,
+    "dailyMinutesDown": {
+      "2023-10-23": 0
+    }
   }
 ]
