@@ -69,9 +69,9 @@
     "url": "https://www.regionaalhaigla.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "pohja-eesti-regionaalhaigla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -81,6 +81,7 @@
     "timeMonth": 1307,
     "timeYear": 1448,
     "dailyMinutesDown": {
+      "2024-03-01": 0,
       "2023-09-14": 55
     }
   },
@@ -132,11 +133,11 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "monese",
     "status": "up",
-    "uptime": "74.75%",
+    "uptime": "74.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.75%",
+    "uptimeYear": "74.76%",
     "time": 1708,
     "timeDay": 2419,
     "timeWeek": 1872,
