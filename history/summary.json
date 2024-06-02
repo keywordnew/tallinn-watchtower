@@ -13,7 +13,7 @@
     "time": 1047,
     "timeDay": 1095,
     "timeWeek": 1050,
-    "timeMonth": 999,
+    "timeMonth": 1005,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2024-04-12": 17,
@@ -34,7 +34,7 @@
     "time": 701,
     "timeDay": 274,
     "timeWeek": 483,
-    "timeMonth": 495,
+    "timeMonth": 473,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2024-01-10": 19,
@@ -48,19 +48,19 @@
     "url": "https://www.elisa.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "elisa-eesti-as",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.78%",
-    "time": 1289,
-    "timeDay": 1038,
-    "timeWeek": 1148,
-    "timeMonth": 1330,
-    "timeYear": 1289,
+    "time": 1299,
+    "timeDay": 2729,
+    "timeWeek": 1511,
+    "timeMonth": 1403,
+    "timeYear": 1299,
     "dailyMinutesDown": {
-      "2024-06-02": 16,
+      "2024-06-02": 36,
       "2024-05-18": 18,
       "2024-05-08": 126,
       "2024-05-07": 196,
@@ -85,7 +85,7 @@
     "time": 1400,
     "timeDay": 1482,
     "timeWeek": 1468,
-    "timeMonth": 1284,
+    "timeMonth": 1286,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2023-09-14": 55
@@ -105,7 +105,7 @@
     "time": 1160,
     "timeDay": 1154,
     "timeWeek": 1042,
-    "timeMonth": 934,
+    "timeMonth": 941,
     "timeYear": 1160,
     "dailyMinutesDown": {
       "2024-03-15": 77,
@@ -130,7 +130,7 @@
     "time": 1401,
     "timeDay": 1698,
     "timeWeek": 1395,
-    "timeMonth": 1337,
+    "timeMonth": 1312,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2023-10-10": 30
@@ -150,7 +150,7 @@
     "time": 1759,
     "timeDay": 2369,
     "timeWeek": 2367,
-    "timeMonth": 1836,
+    "timeMonth": 1845,
     "timeYear": 1759,
     "dailyMinutesDown": {
       "2023-12-30": 649,
