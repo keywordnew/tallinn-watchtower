@@ -4,9 +4,9 @@
     "url": "https://tallinnavesi.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "tallinna-vesi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 982,
     "timeYear": 1006,
     "dailyMinutesDown": {
+      "2024-11-19": 0,
       "2024-10-22": 76,
       "2024-06-12": 17,
       "2024-04-12": 17
@@ -156,7 +157,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.66%",
+    "uptimeYear": "88.67%",
     "time": 1717,
     "timeDay": 258,
     "timeWeek": 260,
