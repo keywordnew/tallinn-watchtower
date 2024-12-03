@@ -135,10 +135,10 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "tallinna-linnatranspordi-as",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1409,
     "timeDay": 1254,
@@ -146,7 +146,7 @@
     "timeMonth": 1510,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2024-12-03": 0
+      "2024-12-03": 23
     }
   },
   {
