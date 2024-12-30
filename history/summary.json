@@ -88,19 +88,19 @@
     "url": "https://www.regionaalhaigla.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "pohja-eesti-regionaalhaigla",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1402,
-    "timeDay": 1456,
-    "timeWeek": 1407,
-    "timeMonth": 1417,
-    "timeYear": 1365,
+    "time": 1403,
+    "timeDay": 1514,
+    "timeWeek": 1431,
+    "timeMonth": 1424,
+    "timeYear": 1366,
     "dailyMinutesDown": {
-      "2024-12-30": 0
+      "2024-12-30": 21
     }
   },
   {
