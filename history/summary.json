@@ -154,9 +154,9 @@
     "url": "https://www.monese.com",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "monese",
-    "status": "up",
-    "uptime": "89.10%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "89.11%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -166,6 +166,7 @@
     "timeMonth": 236,
     "timeYear": 1341,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2025-01-13": 59
     }
   }
