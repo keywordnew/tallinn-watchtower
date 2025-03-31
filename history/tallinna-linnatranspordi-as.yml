@@ -1,7 +1,7 @@
 url: https://www.tlt.ee/
-status: up
-code: 200
-responseTime: 4026
-lastUpdated: 2025-03-30T23:07:34.947Z
+status: down
+code: 503
+responseTime: 693
+lastUpdated: 2025-03-31T21:59:11.350Z
 startTime: 2023-06-06T09:35:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
